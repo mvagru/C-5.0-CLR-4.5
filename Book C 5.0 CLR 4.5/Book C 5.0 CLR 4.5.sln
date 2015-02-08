@@ -5,9 +5,11 @@ VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Book C 5.0 CLR 4.5", "Book C 5.0 CLR 4.5\Book C 5.0 CLR 4.5.csproj", "{4CAAFB0C-4C52-44C4-BCF2-E99BFA1B17AD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App1", "App1\App1.csproj", "{99222279-821D-407C-BAC2-747FF8C61A38}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App1 [Умножение]", "App1\App1 [Умножение].csproj", "{99222279-821D-407C-BAC2-747FF8C61A38}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App1+", "App1+\App1+.csproj", "{BAEC3D2D-2FD5-402B-B9A5-CBFA80DFDAA7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App1+ [Рефакторинг умножения]", "App1+\App1+ [Рефакторинг умножения].csproj", "{BAEC3D2D-2FD5-402B-B9A5-CBFA80DFDAA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App2 [Работа с типами]", "App2\App2 [Работа с типами].csproj", "{797F366E-0B3D-49C8-A46C-E796B67570FD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{BAEC3D2D-2FD5-402B-B9A5-CBFA80DFDAA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BAEC3D2D-2FD5-402B-B9A5-CBFA80DFDAA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BAEC3D2D-2FD5-402B-B9A5-CBFA80DFDAA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{797F366E-0B3D-49C8-A46C-E796B67570FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{797F366E-0B3D-49C8-A46C-E796B67570FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{797F366E-0B3D-49C8-A46C-E796B67570FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{797F366E-0B3D-49C8-A46C-E796B67570FD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
