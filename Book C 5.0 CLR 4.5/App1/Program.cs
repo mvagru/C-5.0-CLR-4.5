@@ -1,17 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System; /* Импорт пространства имен */
 
 namespace App1
 {
-    class Program
+    class Program   /* Обьявление класса */
     {
-        static void Main(string[] args)
+        static void Main(string[] args)     /* Обьявление метода */
         {
-            int x = 12 * 30;
-            Console.WriteLine(x);
-        }
-    }
+            int x = 12 * 30;    // Оператор 1
+            Console.WriteLine(x);   // Оператор 2
+        }   /* Конец метода */
+    }   /* Конец класса */
 }
