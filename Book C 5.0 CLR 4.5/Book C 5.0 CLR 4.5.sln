@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App4 [Panda]", "App4\App4 [
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App5 [Типы значений]", "App5\App5 [Типы значений].csproj", "{39B0F6D4-76EA-4419-8D1C-4EB38AC4D917}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App6 [Значение null]", "App6\App6 [Значение null].csproj", "{0E0148F6-91AE-4F12-9D3E-EDDB9E4AF276}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{39B0F6D4-76EA-4419-8D1C-4EB38AC4D917}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{39B0F6D4-76EA-4419-8D1C-4EB38AC4D917}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{39B0F6D4-76EA-4419-8D1C-4EB38AC4D917}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E0148F6-91AE-4F12-9D3E-EDDB9E4AF276}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E0148F6-91AE-4F12-9D3E-EDDB9E4AF276}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E0148F6-91AE-4F12-9D3E-EDDB9E4AF276}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E0148F6-91AE-4F12-9D3E-EDDB9E4AF276}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
